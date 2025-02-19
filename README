@@ -1,0 +1,9 @@
+# PixelPyArt 🎨  
+Une bibliothèque Python pour créer du Pixel Art facilement.  
+
+## Installation  
+Bientôt sur PyPI ! En attendant :  
+```sh
+git clone https://github.com/tonpseudo/PixelPyArt.git
+cd PixelPyArt
+pip install -r requirements.txt
